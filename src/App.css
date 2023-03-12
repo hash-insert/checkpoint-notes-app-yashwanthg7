@@ -1,8 +1,16 @@
 .App {
   text-align: center;
 }
-
 body{
+  margin-bottom: 80px;
+}
+
+body {
   padding-left: 200px;
-  padding-right: 300px;
+  padding-right: 200px;
+  margin: 0;
+}
+.mydiv{
+  display: flex;
+  flex-direction: column;
 }
