@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/checkpoint-notes-app-yashwanthg7/static/css/main.e8a8a8ec.css",
-    "main.js": "/checkpoint-notes-app-yashwanthg7/static/js/main.fb4858d5.js",
+    "main.css": "/checkpoint-notes-app-yashwanthg7/static/css/main.f0cb9fdb.css",
+    "main.js": "/checkpoint-notes-app-yashwanthg7/static/js/main.57cbc01c.js",
     "static/js/787.69eee644.chunk.js": "/checkpoint-notes-app-yashwanthg7/static/js/787.69eee644.chunk.js",
     "index.html": "/checkpoint-notes-app-yashwanthg7/index.html",
-    "main.e8a8a8ec.css.map": "/checkpoint-notes-app-yashwanthg7/static/css/main.e8a8a8ec.css.map",
-    "main.fb4858d5.js.map": "/checkpoint-notes-app-yashwanthg7/static/js/main.fb4858d5.js.map",
+    "main.f0cb9fdb.css.map": "/checkpoint-notes-app-yashwanthg7/static/css/main.f0cb9fdb.css.map",
+    "main.57cbc01c.js.map": "/checkpoint-notes-app-yashwanthg7/static/js/main.57cbc01c.js.map",
     "787.69eee644.chunk.js.map": "/checkpoint-notes-app-yashwanthg7/static/js/787.69eee644.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8a8a8ec.css",
-    "static/js/main.fb4858d5.js"
+    "static/css/main.f0cb9fdb.css",
+    "static/js/main.57cbc01c.js"
   ]
 }
